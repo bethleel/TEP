@@ -1,1 +1,1 @@
-# TEP
+Comparing models of blends in order to eliminate them from observed data
