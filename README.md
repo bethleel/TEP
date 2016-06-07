@@ -1,1 +1,1 @@
-Comparing models of blends in order to eliminate them from observed data
+Comparing models of blends to observed data in order to confirm our findings.
